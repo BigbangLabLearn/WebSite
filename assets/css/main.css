@@ -1635,6 +1635,7 @@
 	a {
 		color: #5385c1;
 		text-decoration: underline;
+		font-size: 100%;
 	}
 
 		a:hover {
@@ -2770,7 +2771,7 @@
 			padding: 0;
 			position: absolute;
 			top: 0;
-			font-size: 1em;
+			font-size: 1.5em;
 		}
 
 		#header a {
@@ -2782,7 +2783,7 @@
 			padding: 0 0.75em;
 			color: inherit;
 			text-decoration: none;
-			font-size: .8em;
+			font-size: 1.2em;
 		}
 
 			#header a:hover {
